@@ -1,0 +1,35 @@
+html {
+	margin: 0;
+	padding: 0;
+	background-color: #777;
+}
+body {
+	width:80%;
+    margin: 0 auto;
+	padding: 1em 40px;
+	background: white;
+}
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 2em;
+    text-align:center;
+	font-weight: bold;
+}
+h2 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    text-align:center
+    color:black;
+}
+p {
+	line-height: 1.5;
+	text-align: left;
+    text-indent: 2em;
+	width: 80%;
+	margin-bottom: 1em;
+}
+.recipe {
+    font-style: italic;
+}
+ul {
+    list-style-type:none
+}
